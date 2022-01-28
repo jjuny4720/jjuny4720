@@ -3,7 +3,7 @@
 jjuny4720/jjuny4720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## parent <a id="transparent">
+<a id="transparent">
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Transparent&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
 
 · Follow your heart
