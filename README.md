@@ -6,5 +6,8 @@ You can click the Preview link to take a look at your changes.
 
 · Follow your heart
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
+
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=jjuny4720&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuny4720)](https://github.com/anuraghazra/github-readme-stats)
